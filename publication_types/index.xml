@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | WEI Yingdong (Sendoh)</title>
-    <link>https://wyd-Sendoh.github.io/publication_types/</link>
-      <atom:link href="https://wyd-Sendoh.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pp.github.io/publication_types/</link>
+      <atom:link href="https://pp.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © WEI Yingdong, Powered by the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io).</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://wyd-Sendoh.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pp.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
-      <link>https://wyd-Sendoh.github.io/publication_types/</link>
+      <link>https://pp.github.io/publication_types/</link>
     </image>
     
   </channel>
