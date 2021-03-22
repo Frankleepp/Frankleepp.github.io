@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | WEI Yingdong (Sendoh)</title>
-    <link>https://pp.github.io/publication/</link>
-      <atom:link href="https://pp.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | LI Peng</title>
+    <link>https://Frankleepp.github.io/publication/</link>
+      <atom:link href="https://Frankleepp.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © WEI Yingdong, Powered by the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io).</copyright><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pp.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
+      <url>https://Frankleepp.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>https://pp.github.io/publication/</link>
+      <link>https://Frankleepp.github.io/publication/</link>
     </image>
     
     <item>
       <title>Interval estimation for nabla fractional order linear time-invariant systems</title>
-      <link>https://pp.github.io/publication/smac/</link>
+      <link>https://Frankleepp.github.io/publication/smac/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://pp.github.io/publication/smac/</guid>
+      <guid>https://Frankleepp.github.io/publication/smac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and implementation of fractional differentiators, Part II: Signal based methods</title>
-      <link>https://pp.github.io/publication/cac1/</link>
+      <link>https://Frankleepp.github.io/publication/cac1/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://pp.github.io/publication/cac1/</guid>
+      <guid>https://Frankleepp.github.io/publication/cac1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mittag-Leffler stability of nabla discrete fractional-order dynamic systems</title>
-      <link>https://pp.github.io/publication/example/</link>
+      <link>https://Frankleepp.github.io/publication/example/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://pp.github.io/publication/example/</guid>
+      <guid>https://Frankleepp.github.io/publication/example/</guid>
       <description></description>
     </item>
     
